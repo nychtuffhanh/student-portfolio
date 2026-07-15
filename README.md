@@ -38,8 +38,17 @@ We believe that great software is built through collaboration. Meet the minds be
 |
  Portfolio Link 
 |
-|:---|:---|:---|:---|
 |
+:---
+|
+:---
+|
+:---
+|
+:---
+|
+|
+
 **
 Nay Cho Kaung Myat
 **
