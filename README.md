@@ -66,7 +66,7 @@ We welcome suggestions and contributions from fellow students and developers!
 We are always open to new ideas, collaborative opportunities, internships, and tech talks. Feel free to connect with us!
 * **Live Site**: [nychtuffhanh.github.io/student-portfolio/](https://nychtuffhanh.github.io/student-portfolio/)
 * **Email**: [teamnexus@email.com](mailto:teamnexus@email.com)
-* **GitHub Organization**: [github.com/TeamNexus](https://github.com/TeamNexus)
+* **GitHub Organization**: [github.com/TeamNexus-Dev](https://github.com/TeamNexus-Dev)
 * **Location**: Myanmar 🇲🇲
 ---
 *Created with ❤️, code, and collaboration by **Team Nexus**.*
