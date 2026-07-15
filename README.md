@@ -2,9 +2,9 @@
 > **Building Ideas Together.**
 Welcome to the official repository for the **Team Nexus** collaborative portfolio. We are a team of three passionate Computer Science students from Myanmar, working together to design, develop, and deploy software solutions while exploring the latest technologies.
 This portfolio serves as a showcase of our collective academic journey, technical skills, milestones, and development work. It also acts as a central hub that connects visitors directly to our individual developer profiles and specialized portfolios.
-🌐 **[Live Demo](https://nychtuffhanh.github.io/student-portfolio/)**
+**[Live Demo](https://nychtuffhanh.github.io/student-portfolio/)**
 ---
-## 📖 About the Project
+## About the Project
 This web application is a custom-designed, team-based portfolio that highlights the growth, achievements, and synergy of **Team Nexus**. Rather than presenting ourselves in isolation, we designed this unified space to show how our diverse skillsets—ranging from creative frontend layouts to complex backend algorithms—intersect.
 It is structured to give recruiters, collaborators, and mentors an immediate, engaging overview of what we can achieve together as student developers.
 ---
