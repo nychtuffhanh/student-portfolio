@@ -29,69 +29,11 @@ It is structured to give recruiters, collaborators, and mentors an immediate, en
 ---
 ## 👥 Meet Team Nexus
 We believe that great software is built through collaboration. Meet the minds behind the project:
-|
- Team Member 
-|
- Role 
-|
- Core Skills 
-|
- Portfolio Link 
-|
-|
-:---
-|
-:---
-|
-:---
-|
-:---
-|
-|
-**
-Nay Cho Kaung Myat
-**
-|
- Frontend Developer 
-|
- HTML • CSS • JavaScript 
-|
-[
-View Portfolio ➔
-](
-https://nychtuffhanh.github.io/my-portfolio/
-)
-|
-|
-**
-Nant Chit Snow Htoo
-**
-|
- Backend Developer 
-|
- Java • Databases • Systems 
-|
-[
-View Portfolio ➔
-](
-https://codeandvibes.github.io/student-portfolio/
-)
-|
-|
-**
-Hlaing Tun Aung
-**
-|
- Software Developer 
-|
- C++ • Java • Algorithms 
-|
-[
-View Portfolio ➔
-](
-https://tunaunghlaing299-ux.github.io/student-portfolio/
-)
-|
+| Team Member | Role | Core Skills | Portfolio Link |
+| :--- | :--- | :--- | :--- |
+| **Nay Cho Kaung Myat** | Frontend Developer | HTML • CSS • JavaScript | [View Portfolio ➔](https://nychtuffhanh.github.io/my-portfolio/) |
+| **Nant Chit Snow Htoo** | Backend Developer | Java • Databases • Systems | [View Portfolio ➔](https://codeandvibes.github.io/student-portfolio/) |
+| **Hlaing Tun Aung** | Software Developer | C++ • Java • Algorithms | [View Portfolio ➔](https://tunaunghlaing299-ux.github.io/student-portfolio/) |
 ---
 ## 🚀 How to Run & Contribute
 ### Local Setup
